@@ -23,7 +23,7 @@ Now close PowerShell and reopen it to ensure the pipx command is available.
 - Install *Homebrew* (https://brew.sh) by running: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - After installing Homebrew run: `brew install python@3.11 pipx ffmpeg git`
 - Setup pipx: `pipx ensurepath`
-- Install Zotify: `pipx install git+https://github.com/Googolplexed0/zotify.git@efficient-api`
+- Install Zotify: `pipx install git+https://github.com/Megapit/zotify.git@new-hierarchy`
 - Done! Use `zotify --help` for a basic list of commands or check the README.md file in Zotify's code repository for full documentation.
 
 > **Linux (Most Popular Distributions)**
